@@ -2,7 +2,7 @@ public class TestVehiculo {
 
     static void main(String[] args) {
 
-        Coche coche = new Coche("Toyota", "Corolla",1990,4);
+        Coche coche = new Coche("Toyota", "Corolla",1991,4);
         Moto moto = new Moto("motoaza","alucinante",2026,1000);
 
 
